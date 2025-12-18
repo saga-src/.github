@@ -1,4 +1,4 @@
-## **Saga Source**
+## **Saga**
 
 **Architecting the tools for digital storytelling and memory.**
 
